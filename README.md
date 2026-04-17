@@ -28,3 +28,5 @@ CheckMe is a Python-based application designed to help college students track th
 - Build a basic interface
 - Store checklist data
 - Add scoring and summaries
+
+Initial Sprint 1 setup
