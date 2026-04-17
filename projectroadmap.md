@@ -18,29 +18,41 @@
 - [x] Attempt to run the existing codebase
 - [x] Document findings from the codebase review
 
+---
+
 ## Existing Repository Exploration
 
 ### Repository Reviewed
-Habit-Tracker-Python
+https://github.com/ksu-is/Mind_Scape_Universe
 
 ### Purpose of Review
-I explored this project to see whether its structure and tracking logic could help with my CheckMe mental health tracker project.
+I explored this repository because it is related to mental wellness, which closely aligns with my CheckMe project idea. My goal was to evaluate whether its structure or features could help guide my own application.
 
 ### What I Did
 - [x] Found a related Python repository
-- [x] Read through the code
-- [x] Reviewed how it tracks daily user input
-- [x] Attempted to run the project locally
-- [x] Evaluated whether it fits my project idea
+- [x] Opened and reviewed the README file
+- [x] Explored the project structure and files
+- [x] Read through the Python code
+- [x] Identified how the application is designed
+- [x] Attempted to run the project locally in VS Code
+- [x] Attempted to run the dashboard.py file
 
 ### Findings
-The repository was useful for understanding how a simple tracking application can be structured in Python. It showed a workable approach for collecting repeated user input and organizing daily records. I liked the basic logic and structure, but it was not designed specifically for mental health tracking and did not include a graphical interface.
+The Mind_Scape_Universe project is designed around mental wellness concepts and user interaction. It appears to focus on helping users engage with their mental state in a structured or interactive way. The project demonstrates how a Python-based application can be organized to support wellness-related features and user input.
+
+### What I Learned
+From this repository, I learned how a mental health or wellness application can be structured in Python. It gave me ideas about how to design user interaction, organize features, and create a more engaging experience for users. This will help me build my CheckMe application in a more thoughtful and structured way.
+
+### Run Attempt
+I attempted to run the project locally in VS Code by executing the dashboard.py file. However, I encountered an error stating "ModuleNotFoundError: No module named 'pandas'." This indicates that the project requires external libraries that were not installed in my environment. Even though it did not run successfully on the first attempt, I was still able to review and understand the structure of the application.
 
 ### Decision
-- [x] Reuse ideas from the repository
-- [ ] Directly use the full repository in my final project
+- [x] Use ideas from this repository
+- [ ] Directly use this repository in my final project
 
-I will use the general tracking ideas and input flow as inspiration, but I plan to build my own version for CheckMe with features focused on student mental health.
+I will not directly use this repository, but I will use its structure and concepts as inspiration when building my CheckMe application, especially for user interaction and mental wellness features.
+
+---
 
 ## Sprint 2 Planned Tasks
 
