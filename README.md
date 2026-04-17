@@ -31,3 +31,5 @@ CheckMe is a Python-based application designed to help college students track th
 
 ## Similar PROJECTS
 - I checked out this project from a previous semester and found it similar to mine: https://github.com/ksu-is/Mind_Scape_Universe
+
+  Sprint 1 README update
